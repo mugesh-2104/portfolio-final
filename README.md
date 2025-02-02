@@ -19,11 +19,11 @@ Welcome to my portfolio! You can check it out live at [kannan.fullstackstudio.in
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/mugesh-2104/portfolio-final.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd your-repo
+   cd portfolio-final
    ```
 3. Open `index.html` in your browser to explore the portfolio.
 
